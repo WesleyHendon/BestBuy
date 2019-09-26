@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestBuy", "BestBuy\BestBuy.csproj", "{67C0BFE4-96E0-48BE-AE66-A5A412AA6F7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestBuyTests", "BestBuyTests\BestBuyTests.csproj", "{22E530ED-99E0-4DAB-9C71-353E2870B4B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67C0BFE4-96E0-48BE-AE66-A5A412AA6F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C0BFE4-96E0-48BE-AE66-A5A412AA6F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C0BFE4-96E0-48BE-AE66-A5A412AA6F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C0BFE4-96E0-48BE-AE66-A5A412AA6F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22E530ED-99E0-4DAB-9C71-353E2870B4B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E530ED-99E0-4DAB-9C71-353E2870B4B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E530ED-99E0-4DAB-9C71-353E2870B4B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E530ED-99E0-4DAB-9C71-353E2870B4B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
