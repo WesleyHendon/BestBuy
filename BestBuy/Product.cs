@@ -13,7 +13,7 @@ namespace BestBuy
 
         public double PriceWithTax()
         {
-            return Price * 1.1;
+            return Math.Round(Price * 1.1, 2);
         }
     }
 }
